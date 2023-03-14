@@ -6,7 +6,7 @@
 
         public Circle(double radius)
         {
-            if (radius < 0)
+            if (radius <= 0)
                 throw new ArgumentException("Радиус круга должен быть положительным");
 
             this.radius = radius;

@@ -17,7 +17,6 @@
             if (firstSide <= 0 || secondSide <= 0 || thirdSide <= 0)
                 throw new ArgumentException("Стороны треугольника должны быть положительными");
 
-
             this.firstSide = firstSide;
             this.secondSide = secondSide;
             this.thirdSide = thirdSide;

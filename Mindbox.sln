@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32319.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Client", "Mindbox.Client.csproj", "{C1DF3508-9D35-4AC3-B7CD-CFE3BA25882C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox.Client", "Mindbox.Client\Mindbox.Client.csproj", "{C1DF3508-9D35-4AC3-B7CD-CFE3BA25882C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Task", "..\Mindbox.Task\Mindbox.Task.csproj", "{3B150C17-4AE1-4812-B4CD-A8B32E35795B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox.Task", "Mindbox.Task\Mindbox.Task.csproj", "{3B150C17-4AE1-4812-B4CD-A8B32E35795B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mindbox.Tests", "..\Mindbox.Tests\Mindbox.Tests.csproj", "{5F51420E-27F7-4A94-90A8-A3170A48A29C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Mindbox.Tests", "Mindbox.Tests\Mindbox.Tests.csproj", "{5F51420E-27F7-4A94-90A8-A3170A48A29C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
